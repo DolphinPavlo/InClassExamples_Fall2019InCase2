@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="hello_message">Привет Мир</string>
+<string name="item1">Дивись тут</string>
+<string name="item2">Жми тут</string>
+<string name="item3">Жми вже</string>
+    <string name="item4">ВКЛ/Вікл</string>
+    <string name="item5">Друкуй тут</string>
+    <string name="item6">Перемк</string>
+<!--    <string name="item7">Друкуй тут</string>-->
+<string name="app_name">Лекция Осень 2019</string>
+</resources>
